@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/bean/AuthorizeCust.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/bean/Staff.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/newCust.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/loginAdmin.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/dao/StaffDAO.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/loginStaff.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/manageAnimalStaff.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/manageAnimal.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/index.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/manageTicket.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/dao/AdminDAO.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/controller/AnimalServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/controller/TicketServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/bean/Customer.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/manageTicketStaff.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/bean/Animal.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/controller/StaffServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/bean/Admin.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/manageTicketCust.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/indexStaff.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/updateAnimal.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/indexAdmin.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/indexCust.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/dao/AnimalDAO.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/controller/DeletionServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/updateStaff.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/updateAnimalStaff.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/updateCust.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/ticketCust.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/dao/CustDAO.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/dao/TicketDAO.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/controller/CustomerServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/util/DBConnection.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/bean/Ticket.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/src/java/com/mvc/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/manageStaff.jsp</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Wildlife%20Zoo%20Ticketing%20Management%20System/web/loginCust.jsp</file>
+        </group>
+    </open-files>
+</project-private>
